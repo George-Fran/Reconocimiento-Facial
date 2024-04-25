@@ -1,0 +1,10 @@
+Estamos usando el entorno virtual de venv
+Para instalar los archivos pip install requirements.txt
+dlib no funciona asi que si es necesario instalar archivo por archivo 
+Las librerias necesarias se encuentran en requirements.txt
+
+INSTALACION DE Dlib: pip install dlib-19.22.99-cp310-cp310-win_amd64.whl
+
+Abrimos el archivo reconocerCara
+y en visual studio code especificamos el entorno virtual con el cual estamos trabajamos
+Finalmente ejecutamos la aplicacion con F5
